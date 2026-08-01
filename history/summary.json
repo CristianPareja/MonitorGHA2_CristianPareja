@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 57,
-    "timeDay": 57,
-    "timeWeek": 57,
-    "timeMonth": 57,
-    "timeYear": 57,
+    "time": 73,
+    "timeDay": 89,
+    "timeWeek": 73,
+    "timeMonth": 73,
+    "timeYear": 73,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 509,
-    "timeDay": 509,
-    "timeWeek": 509,
-    "timeMonth": 509,
-    "timeYear": 509,
+    "time": 283,
+    "timeDay": 57,
+    "timeWeek": 283,
+    "timeMonth": 283,
+    "timeYear": 283,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sitio-roto-prueba-123456789.com.ico",
     "slug": "sitio-roto-de-prueba",
     "status": "down",
-    "uptime": "70.31%",
-    "uptimeDay": "70.31%",
-    "uptimeWeek": "70.31%",
-    "uptimeMonth": "70.31%",
-    "uptimeYear": "70.31%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 0
+      "2026-08-01": 130,
+      "2026-07-31": 1375
     }
   }
 ]
